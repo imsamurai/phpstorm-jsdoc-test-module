@@ -1,4 +1,3 @@
-/** @module Abc */
 /**
  * @memberOf module:Abc
  */
